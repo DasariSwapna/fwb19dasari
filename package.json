@@ -16,5 +16,14 @@
   "main": "app.js",
   "author": "",
   "license": "ISC",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DasariSwapna/fwb19dasari.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DasariSwapna/fwb19dasari/issues"
+  },
+  "homepage": "https://github.com/DasariSwapna/fwb19dasari#readme",
   "description": ""
 }
