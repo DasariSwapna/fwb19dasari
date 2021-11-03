@@ -10,8 +10,8 @@ apple_type(string)
 quantity(number)
 cost(number)
 
-<!-- [Apple](https://fwb19dasari.herokuapp.com/apple)
+[Apple](https://fwb19dasari.herokuapp.com/apple)
 
 [Addmods](https://fwb19dasari.herokuapp.com/addmods?rows=3&cols=4)
 
-[Selector](https://fwb19dasari.herokuapp.com/selector) -->
+[Selector](https://fwb19dasari.herokuapp.com/selector)
