@@ -12,6 +12,6 @@ cost(number)
 
 [Apple](https://fwb19dasari.herokuapp.com/apple)
 
-[Addmods](https://fwb19dasari.herokuapp.com/addmods?rows=3&cols=4)
+[Addmods](https://fwb19dasari.herokuapp.com/addmods?rows=4&cols=5)
 
 [Selector](https://fwb19dasari.herokuapp.com/selector)
